@@ -1,0 +1,511 @@
+{
+  "UserRightWeekPlanCfg": {
+    "enable": true,
+    "WeekPlanCfg": [
+      {
+        "week": "Monday",
+        "id": 1,
+        "enable": true,
+        "TimeSegment": {
+          "beginTime": "08:00:00",
+          "endTime": "12:00:00"
+        }
+      },
+      {
+        "week": "Monday",
+        "id": 2,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Monday",
+        "id": 3,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Monday",
+        "id": 4,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Monday",
+        "id": 5,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Monday",
+        "id": 6,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Monday",
+        "id": 7,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Monday",
+        "id": 8,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Tuesday",
+        "id": 1,
+        "enable": true,
+        "TimeSegment": {
+          "beginTime": "08:00:00",
+          "endTime": "12:00:00"
+        }
+      },
+      {
+        "week": "Tuesday",
+        "id": 2,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Tuesday",
+        "id": 3,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Tuesday",
+        "id": 4,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Tuesday",
+        "id": 5,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Tuesday",
+        "id": 6,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Tuesday",
+        "id": 7,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Tuesday",
+        "id": 8,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Wednesday",
+        "id": 1,
+        "enable": true,
+        "TimeSegment": {
+          "beginTime": "08:00:00",
+          "endTime": "12:00:00"
+        }
+      },
+      {
+        "week": "Wednesday",
+        "id": 2,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Wednesday",
+        "id": 3,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Wednesday",
+        "id": 4,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Wednesday",
+        "id": 5,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Wednesday",
+        "id": 6,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Wednesday",
+        "id": 7,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Wednesday",
+        "id": 8,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Thursday",
+        "id": 1,
+        "enable": true,
+        "TimeSegment": {
+          "beginTime": "08:00:00",
+          "endTime": "12:00:00"
+        }
+      },
+      {
+        "week": "Thursday",
+        "id": 2,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Thursday",
+        "id": 3,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Thursday",
+        "id": 4,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Thursday",
+        "id": 5,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Thursday",
+        "id": 6,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Thursday",
+        "id": 7,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Thursday",
+        "id": 8,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Friday",
+        "id": 1,
+        "enable": true,
+        "TimeSegment": {
+          "beginTime": "08:00:00",
+          "endTime": "12:00:00"
+        }
+      },
+      {
+        "week": "Friday",
+        "id": 2,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Friday",
+        "id": 3,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Friday",
+        "id": 4,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Friday",
+        "id": 5,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Friday",
+        "id": 6,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Friday",
+        "id": 7,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Friday",
+        "id": 8,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Saturday",
+        "id": 1,
+        "enable": true,
+        "TimeSegment": {
+          "beginTime": "08:00:00",
+          "endTime": "12:00:00"
+        }
+      },
+      {
+        "week": "Saturday",
+        "id": 2,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Saturday",
+        "id": 3,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Saturday",
+        "id": 4,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Saturday",
+        "id": 5,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Saturday",
+        "id": 6,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Saturday",
+        "id": 7,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Saturday",
+        "id": 8,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Sunday",
+        "id": 1,
+        "enable": true,
+        "TimeSegment": {
+          "beginTime": "08:00:00",
+          "endTime": "12:00:00"
+        }
+      },
+      {
+        "week": "Sunday",
+        "id": 2,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Sunday",
+        "id": 3,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Sunday",
+        "id": 4,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Sunday",
+        "id": 5,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Sunday",
+        "id": 6,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Sunday",
+        "id": 7,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      },
+      {
+        "week": "Sunday",
+        "id": 8,
+        "enable": false,
+        "TimeSegment": {
+          "beginTime": "00:00:00",
+          "endTime": "00:00:00"
+        }
+      }
+    ]
+  }
+}

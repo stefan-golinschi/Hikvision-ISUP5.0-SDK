@@ -1,0 +1,22 @@
+{
+  "UserInfo":{
+    "employeeNo": "${employeeNo}",
+    "name": "${name}",
+    "userType":"normal",
+    "Valid":{
+      "enable": ${enable},
+      "beginTime":"2023-01-01T00:00:00",
+      "endTime":"2033-12-30T23:59:59",
+      "timeType":"local"
+    },
+    "doorRight":"1",
+    "RightPlan":[
+      {
+        "doorNo": ${doorNo},
+        "planTemplateNo":"1"
+      }
+    ],
+    "gender":"male",
+    "localUIRight":false
+  }
+}

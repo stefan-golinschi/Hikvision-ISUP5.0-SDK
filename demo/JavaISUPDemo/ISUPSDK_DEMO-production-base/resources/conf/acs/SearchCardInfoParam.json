@@ -1,0 +1,12 @@
+{
+  "CardInfoSearchCond": {
+    "searchID": "${searchID}",
+    "searchResultPosition": 0,
+    "maxResults": 30,
+    "EmployeeNoList" : [
+      {
+        "employeeNo": "${employeeNo}"
+      }
+    ]
+  }
+}

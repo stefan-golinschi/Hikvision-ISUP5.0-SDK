@@ -1,0 +1,283 @@
+﻿  stdafx.cpp
+  AudioTalkCom.cpp
+  DlgAlarmChanList.cpp
+  DlgAlarmHostLog.cpp
+DlgAlarmHostLog.cpp(232): warning C4244: “=”: 从“DWORD_PTR”转换到“DWORD”，可能丢失数据
+DlgAlarmHostLog.cpp(233): warning C4244: “=”: 从“DWORD_PTR”转换到“DWORD”，可能丢失数据
+  DlgAlarmTime.cpp
+  DlgAudioTalk.cpp
+DlgAudioTalk.cpp(931): warning C4018: “<”: 有符号/无符号不匹配
+DlgAudioTalk.cpp(1963): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgAudioTalk.cpp(1964): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgAudioTalk.cpp(2051): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgAudioTalk.cpp(2052): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+  DlgCaptureCfg.cpp
+  DlgChanInfo.cpp
+  DlgCheckStreamKey.cpp
+  DlgCmsAlarm.cpp
+  DlgCommonCfg.cpp
+  DlgCyclePlayBack.cpp
+  DlgDevLog.cpp
+DlgDevLog.cpp(239): warning C4244: “=”: 从“DWORD_PTR”转换到“DWORD”，可能丢失数据
+  DlgEhome50Auth.cpp
+  DlgFlowInfo.cpp
+  DlgGpsInfo.cpp
+DlgGpsInfo.cpp(54): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgGpsInfo.cpp(55): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgGpsInfo.cpp(116): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgGpsInfo.cpp(117): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+  DlgHidArea.cpp
+  DlgHttpAlarm.cpp
+DlgHttpAlarm.cpp(126): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+DlgHttpAlarm.cpp(146): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+DlgHttpAlarm.cpp(242): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+DlgHttpAlarm.cpp(294): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+DlgHttpAlarm.cpp(403): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  DlgIFrame.cpp
+  DlgInfoPublish.cpp
+  DlgInfoPubTerCfg.cpp
+  正在编译...
+  DlgIPSelect.cpp
+DlgIPSelect.cpp(198): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+DlgIPSelect.cpp(152): warning C4101: “addr”: 未引用的局部变量
+  DlgISAPIConfig.cpp
+  DlgISAPIPassthrough.cpp
+  DlgListen.cpp
+  DlgLocalCfg.cpp
+  DlgMotionArea.cpp
+  DlgMotionConfig.cpp
+  DlgOutput.cpp
+  DlgOutputCtrl.cpp
+  DlgPassthroughProxy.cpp
+DlgPassthroughProxy.cpp(150): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+  DlgPicFile.cpp
+DlgPicFile.cpp(245): warning C4244: “=”: 从“DWORD_PTR”转换到“DWORD”，可能丢失数据
+DlgPicFile.cpp(265): warning C4244: “=”: 从“DWORD_PTR”转换到“DWORD”，可能丢失数据
+DlgPicFile.cpp(285): warning C4244: “=”: 从“DWORD_PTR”转换到“DWORD”，可能丢失数据
+  DlgPlayBack.cpp
+  DlgPrivateArea.cpp
+  DlgRecordCfg.cpp
+  DlgRecordFile.cpp
+DlgRecordFile.cpp(31): warning C4244: “参数”: 从“DWORD”转换到“BYTE”，可能丢失数据
+DlgRecordFile.cpp(410): warning C4244: “=”: 从“DWORD_PTR”转换到“DWORD”，可能丢失数据
+DlgRecordFile.cpp(877): warning C4244: “=”: 从“DWORD”转换到“WORD”，可能丢失数据
+  DlgStorageServer.cpp
+DlgStorageServer.cpp(374): warning C4090: “初始化”: 不同的“__unaligned”限定符
+DlgStorageServer.cpp(478): warning C4267: “初始化”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgStorageServer.cpp(613): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgStorageServer.cpp(791): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgStorageServer.cpp(816): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+DlgStorageServer.cpp(844): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgStorageServer.cpp(856): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgStorageServer.cpp(913): warning C4090: “初始化”: 不同的“__unaligned”限定符
+  DlgStreamEncrypt.cpp
+  DlgSubPicCfg.cpp
+  DlgUpgrade.cpp
+  DlgUpgradeHttp.cpp
+DlgUpgradeHttp.cpp(79): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgUpgradeHttp.cpp(118): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgUpgradeHttp.cpp(234): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+  正在编译...
+  DlgVideoIntercomCall.cpp
+  DlgWebConfig.cpp
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(55): warning C4005: “IDD_DIALOG3”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(69) : 参见“IDD_DIALOG3”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(57): warning C4005: “IDD_DLG_STORAGESERVER”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(73) : 参见“IDD_DLG_STORAGESERVER”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(62): warning C4005: “IDD_DLG_SETPLAYERPARAM”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(75) : 参见“IDD_DLG_SETPLAYERPARAM”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(499): warning C4005: “IDC_BUTTON4”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(573) : 参见“IDC_BUTTON4”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(500): warning C4005: “IDC_BTN_ALARM_OK”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(668) : 参见“IDC_BTN_ALARM_OK”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(501): warning C4005: “IDC_BUTTON_LF_CREATE_SERVER”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(395) : 参见“IDC_BUTTON_LF_CREATE_SERVER”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(503): warning C4005: “IDC_BUTTON_LF_STOPLF”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(421) : 参见“IDC_BUTTON_LF_STOPLF”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(505): warning C4005: “IDC_BUTTON_LF_CREATE_CHANNEL”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(424) : 参见“IDC_BUTTON_LF_CREATE_CHANNEL”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(507): warning C4005: “IDC_BUTTON_LF_DEL_CHANNEL”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(425) : 参见“IDC_BUTTON_LF_DEL_CHANNEL”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(510): warning C4005: “IDC_BUTTON_LF_UPLOAD”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(386) : 参见“IDC_BUTTON_LF_UPLOAD”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(514): warning C4005: “IDC_BUTTON_LF_DOWNLOAD”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(416) : 参见“IDC_BUTTON_LF_DOWNLOAD”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(520): warning C4005: “IDC_BTN_STOREPATH_LF”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(232) : 参见“IDC_BTN_STOREPATH_LF”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(522): warning C4005: “IDC_LF_IP_EDIT”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(675) : 参见“IDC_LF_IP_EDIT”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(526): warning C4005: “IDC_LF_EDIT_PORT”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(678) : 参见“IDC_LF_EDIT_PORT”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(528): warning C4005: “IDC_LF_EDIT_URL”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(208) : 参见“IDC_LF_EDIT_URL”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(530): warning C4005: “IDC_EDIT_LF_START”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(240) : 参见“IDC_EDIT_LF_START”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(532): warning C4005: “IDC_EDIT_LF_END”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(247) : 参见“IDC_EDIT_LF_END”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(535): warning C4005: “IDC_CHECK_LF_RESUME”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(681) : 参见“IDC_CHECK_LF_RESUME”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(539): warning C4005: “IDC_LF_EDIT_PATH”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(220) : 参见“IDC_LF_EDIT_PATH”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(741): warning C4005: “ID_MENU_STORAGESERVER”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(820) : 参见“ID_MENU_STORAGESERVER”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(745): warning C4005: “IDR_MENU_LOGOUT_BTN”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(819) : 参见“IDR_MENU_LOGOUT_BTN”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(748): warning C4005: “ID_MENU_SLEEP_DEVICE”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(824) : 参见“ID_MENU_SLEEP_DEVICE”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(750): warning C4005: “ID_MENU_WAKEUP_DEVICE”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(822) : 参见“ID_MENU_WAKEUP_DEVICE”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(751): warning C4005: “ID_MENU_WEB_CONFIG”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(825) : 参见“ID_MENU_WEB_CONFIG”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(755): warning C4005: “IDD_DLG_UPGRADE_HTTP”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(62) : 参见“IDD_DLG_UPGRADE_HTTP”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(756): warning C4005: “IDD_DLG_STREAM_ENCRYPT”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(68) : 参见“IDD_DLG_STREAM_ENCRYPT”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(757): warning C4005: “IDC_STATIC_PROGRESS”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(548) : 参见“IDC_STATIC_PROGRESS”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(758): warning C4005: “IDC_BTN_STOP_UPGRADE”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(495) : 参见“IDC_BTN_STOP_UPGRADE”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(759): warning C4005: “IDC_PROG_UPGRADE”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(544) : 参见“IDC_PROG_UPGRADE”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(760): warning C4005: “IDD_DLG_ISAPI_CFG”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(61) : 参见“IDD_DLG_ISAPI_CFG”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(761): warning C4005: “IDD_DLG_IFRAME”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(67) : 参见“IDD_DLG_IFRAME”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(762): warning C4005: “IDD_DLG_CHCKE_STREAM_KEY”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(70) : 参见“IDD_DLG_CHCKE_STREAM_KEY”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(763): warning C4005: “IDC_EDIT_STREAM_KEY”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(566) : 参见“IDC_EDIT_STREAM_KEY”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(764): warning C4005: “IDC_EDIT_NEW_CODE”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(561) : 参见“IDC_EDIT_NEW_CODE”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(765): warning C4005: “IDC_EDIT_OLD_CODE”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(563) : 参见“IDC_EDIT_OLD_CODE”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(766): warning C4005: “IDC_CHECK_ENCRYPT”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(559) : 参见“IDC_CHECK_ENCRYPT”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(767): warning C4005: “IDC_BTN_VEDIO_INTERCOME”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(297) : 参见“IDC_BTN_VEDIO_INTERCOME”的前一个定义
+  DlgWirelessInfoPara.cpp
+DlgWirelessInfoPara.cpp(70): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgWirelessInfoPara.cpp(71): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgWirelessInfoPara.cpp(125): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgWirelessInfoPara.cpp(126): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+  EHomeDemo.cpp
+  EHomeDemoDlg.cpp
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(61): warning C4005: “IDD_DLG_ISAPI_CFG”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(760) : 参见“IDD_DLG_ISAPI_CFG”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(62): warning C4005: “IDD_DLG_UPGRADE_HTTP”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(755) : 参见“IDD_DLG_UPGRADE_HTTP”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(67): warning C4005: “IDD_DLG_IFRAME”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(761) : 参见“IDD_DLG_IFRAME”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(68): warning C4005: “IDD_DLG_STREAM_ENCRYPT”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(756) : 参见“IDD_DLG_STREAM_ENCRYPT”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(69): warning C4005: “IDD_DIALOG3”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(55) : 参见“IDD_DIALOG3”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(70): warning C4005: “IDD_DLG_CHCKE_STREAM_KEY”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(762) : 参见“IDD_DLG_CHCKE_STREAM_KEY”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(73): warning C4005: “IDD_DLG_STORAGESERVER”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(57) : 参见“IDD_DLG_STORAGESERVER”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(75): warning C4005: “IDD_DLG_SETPLAYERPARAM”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(62) : 参见“IDD_DLG_SETPLAYERPARAM”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(208): warning C4005: “IDC_LF_EDIT_URL”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(528) : 参见“IDC_LF_EDIT_URL”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(220): warning C4005: “IDC_LF_EDIT_PATH”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(539) : 参见“IDC_LF_EDIT_PATH”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(232): warning C4005: “IDC_BTN_STOREPATH_LF”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(520) : 参见“IDC_BTN_STOREPATH_LF”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(240): warning C4005: “IDC_EDIT_LF_START”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(530) : 参见“IDC_EDIT_LF_START”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(247): warning C4005: “IDC_EDIT_LF_END”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(532) : 参见“IDC_EDIT_LF_END”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(297): warning C4005: “IDC_BTN_VEDIO_INTERCOME”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(767) : 参见“IDC_BTN_VEDIO_INTERCOME”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(386): warning C4005: “IDC_BUTTON_LF_UPLOAD”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(510) : 参见“IDC_BUTTON_LF_UPLOAD”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(395): warning C4005: “IDC_BUTTON_LF_CREATE_SERVER”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(501) : 参见“IDC_BUTTON_LF_CREATE_SERVER”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(416): warning C4005: “IDC_BUTTON_LF_DOWNLOAD”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(514) : 参见“IDC_BUTTON_LF_DOWNLOAD”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(421): warning C4005: “IDC_BUTTON_LF_STOPLF”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(503) : 参见“IDC_BUTTON_LF_STOPLF”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(424): warning C4005: “IDC_BUTTON_LF_CREATE_CHANNEL”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(505) : 参见“IDC_BUTTON_LF_CREATE_CHANNEL”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(425): warning C4005: “IDC_BUTTON_LF_DEL_CHANNEL”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(507) : 参见“IDC_BUTTON_LF_DEL_CHANNEL”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(495): warning C4005: “IDC_BTN_STOP_UPGRADE”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(758) : 参见“IDC_BTN_STOP_UPGRADE”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(544): warning C4005: “IDC_PROG_UPGRADE”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(759) : 参见“IDC_PROG_UPGRADE”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(548): warning C4005: “IDC_STATIC_PROGRESS”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(757) : 参见“IDC_STATIC_PROGRESS”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(559): warning C4005: “IDC_CHECK_ENCRYPT”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(766) : 参见“IDC_CHECK_ENCRYPT”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(561): warning C4005: “IDC_EDIT_NEW_CODE”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(764) : 参见“IDC_EDIT_NEW_CODE”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(563): warning C4005: “IDC_EDIT_OLD_CODE”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(765) : 参见“IDC_EDIT_OLD_CODE”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(566): warning C4005: “IDC_EDIT_STREAM_KEY”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(763) : 参见“IDC_EDIT_STREAM_KEY”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(573): warning C4005: “IDC_BUTTON4”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(499) : 参见“IDC_BUTTON4”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(668): warning C4005: “IDC_BTN_ALARM_OK”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(500) : 参见“IDC_BTN_ALARM_OK”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(675): warning C4005: “IDC_LF_IP_EDIT”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(522) : 参见“IDC_LF_IP_EDIT”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(678): warning C4005: “IDC_LF_EDIT_PORT”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(526) : 参见“IDC_LF_EDIT_PORT”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(681): warning C4005: “IDC_CHECK_LF_RESUME”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(535) : 参见“IDC_CHECK_LF_RESUME”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(819): warning C4005: “IDR_MENU_LOGOUT_BTN”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(745) : 参见“IDR_MENU_LOGOUT_BTN”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(820): warning C4005: “ID_MENU_STORAGESERVER”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(741) : 参见“ID_MENU_STORAGESERVER”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(822): warning C4005: “ID_MENU_WAKEUP_DEVICE”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(750) : 参见“ID_MENU_WAKEUP_DEVICE”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(824): warning C4005: “ID_MENU_SLEEP_DEVICE”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(748) : 参见“ID_MENU_SLEEP_DEVICE”的前一个定义
+d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\Resource.h(825): warning C4005: “ID_MENU_WEB_CONFIG”: 宏重定义
+          d:\jenkins_ci\workspace\pack_sdk_isup_win32_64\common\hcehomecms\win\ehomedemo\isupdemo\resourceEn.h(751) : 参见“ID_MENU_WEB_CONFIG”的前一个定义
+EHomeDemoDlg.cpp(264): warning C4267: “初始化”: 从“size_t”转换到“DWORD”，可能丢失数据
+EHomeDemoDlg.cpp(315): warning C4267: “初始化”: 从“size_t”转换到“DWORD”，可能丢失数据
+EHomeDemoDlg.cpp(356): warning C4267: “初始化”: 从“size_t”转换到“DWORD”，可能丢失数据
+EHomeDemoDlg.cpp(432): warning C4267: “初始化”: 从“size_t”转换到“DWORD”，可能丢失数据
+EHomeDemoDlg.cpp(468): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+EHomeDemoDlg.cpp(497): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+EHomeDemoDlg.cpp(507): warning C4267: “初始化”: 从“size_t”转换到“DWORD”，可能丢失数据
+EHomeDemoDlg.cpp(533): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+EHomeDemoDlg.cpp(1858): warning C4244: “=”: 从“DWORD”转换到“BYTE”，可能丢失数据
+EHomeDemoDlg.cpp(1899): warning C4244: “初始化”: 从“LPARAM”转换到“int”，可能丢失数据
+EHomeDemoDlg.cpp(1900): warning C4244: “初始化”: 从“WPARAM”转换到“int”，可能丢失数据
+EHomeDemoDlg.cpp(3252): warning C4244: “初始化”: 从“LPARAM”转换到“int”，可能丢失数据
+EHomeDemoDlg.cpp(4207): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+EHomeDemoDlg.cpp(4346): warning C4267: “参数”: 从“size_t”转换到“UINT”，可能丢失数据
+EHomeDemoDlg.cpp(4496): warning C4244: “初始化”: 从“DWORD_PTR”转换到“DWORD”，可能丢失数据
+EHomeDemoDlg.cpp(4514): warning C4244: “=”: 从“DWORD_PTR”转换到“DWORD”，可能丢失数据
+EHomeDemoDlg.cpp(4838): warning C4244: “=”: 从“DWORD_PTR”转换到“int”，可能丢失数据
+EHomeDemoDlg.cpp(4849): warning C4244: “=”: 从“DWORD_PTR”转换到“int”，可能丢失数据
+EHomeDemoDlg.cpp(5032): warning C4244: “=”: 从“UINT_PTR”转换到“int”，可能丢失数据
+EHomeDemoDlg.cpp(5630): warning C4244: “=”: 从“DWORD”转换到“BYTE”，可能丢失数据
+EHomeDemoDlg.cpp(6857): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+EHomeDemoDlg.cpp(6858): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+  cjson.cpp
+Public\cjson\cjson.cpp(362): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+Public\cjson\cjson.cpp(462): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+  Convert.cpp
+Public\Convert\Convert.cpp(322): warning C4018: “>”: 有符号/无符号不匹配
+  tinystr.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  XmlBase.cpp
+  SoundIn.cpp
+  SubDlgAlarmCfg.cpp
+  SubDlgChanCfg.cpp
+  SubDlgDeviceCfg.cpp
+  SubDlgNetworkCfg.cpp
+  SubDlgXmlCfg.cpp
+SubDlgXmlCfg.cpp(356): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+SubDlgXmlCfg.cpp(440): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+  WaveSound.cpp
+  正在生成代码
+  已完成代码的生成
+  EHomeDemo.vcxproj -> D:\jenkins_ci\workspace\Pack_SDK_ISUP_Win32_64\common\HCEHomeCMS\win\EHomeDemo\ISUPDemo\..\..\lib64\ISUPDemoEn.exe
+  已复制         1 个文件。
+  do nothing

@@ -1,0 +1,9 @@
+{
+  "FingerPrintCfg": {
+    "employeeNo":  "${employeeNo}",
+    "enableCardReader": [1],
+    "fingerPrintID":  1,
+    "fingerType":  "normalFP",
+    "fingerData":  "${fingerData}"
+  }
+}

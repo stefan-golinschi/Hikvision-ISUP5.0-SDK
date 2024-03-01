@@ -1,0 +1,3 @@
+<RemoteControlDoor version="2.0" xmlns="http://www.isapi.org/ver20/XMLSchema">
+    <cmd>${cmd}</cmd>
+</RemoteControlDoor>

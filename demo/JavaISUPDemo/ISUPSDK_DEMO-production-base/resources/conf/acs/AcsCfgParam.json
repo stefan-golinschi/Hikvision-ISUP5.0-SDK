@@ -1,0 +1,21 @@
+{
+  "AcsCfg": {
+    "uploadCapPic": ${uploadCapPic},
+    "saveCapPic": true,
+    "voicePrompt": true,
+    "showPicture": false,
+    "showEmployeeNo": false,
+    "showName": true,
+    "uploadVerificationPic": true,
+    "saveVerificationPic": true,
+    "desensitiseEmployeeNo": true,
+    "desensitiseName": true,
+    "saveFacePic": true,
+    "remoteCheckDoorEnabled": false,
+    "checkChannelType": "Ezviz",
+    "externalCardReaderEnabled": false,
+    "combinationAuthenticationTimeout": 5,
+    "combinationAuthenticationLimitOrder": true,
+    "faceDuplicateCheckEnabled": false
+  }
+}

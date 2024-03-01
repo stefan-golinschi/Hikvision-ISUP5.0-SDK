@@ -1,0 +1,9 @@
+{
+  "CardInfoDelCond":{
+    "CardNoList":[
+      {
+        "cardNo":"${cardNo}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "CardInfo" : {
+    "employeeNo":"${employeeNo}",
+    "cardNo":"${cardNo}",
+    "cardType":"normalCard"
+  }
+}

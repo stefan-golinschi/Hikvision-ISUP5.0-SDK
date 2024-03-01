@@ -1,0 +1,8 @@
+
+{
+  "UserInfoSearchCond":{
+    "searchID":"${searchID}",
+    "searchResultPosition":0,
+    "maxResults":${maxResults}
+  }
+}

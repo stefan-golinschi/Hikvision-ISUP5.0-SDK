@@ -1,0 +1,8 @@
+{
+  "UserRightPlanTemplate": {
+    "enable": true,
+    "templateName": "${templateName}",
+    "weekPlanNo": ${weekPlanNo},
+    "holidayGroupNo": ""
+  }
+}

@@ -1,0 +1,135 @@
+﻿  stdafx.cpp
+  AudioTalkCom.cpp
+  DlgAlarmChanList.cpp
+  DlgAlarmHostLog.cpp
+DlgAlarmHostLog.cpp(232): warning C4244: “=”: 从“DWORD_PTR”转换到“DWORD”，可能丢失数据
+DlgAlarmHostLog.cpp(233): warning C4244: “=”: 从“DWORD_PTR”转换到“DWORD”，可能丢失数据
+  DlgAlarmTime.cpp
+  DlgAudioTalk.cpp
+DlgAudioTalk.cpp(931): warning C4018: “<”: 有符号/无符号不匹配
+DlgAudioTalk.cpp(1963): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgAudioTalk.cpp(1964): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgAudioTalk.cpp(2051): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgAudioTalk.cpp(2052): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+  DlgCaptureCfg.cpp
+  DlgChanInfo.cpp
+  DlgCheckStreamKey.cpp
+  DlgCmsAlarm.cpp
+  DlgCommonCfg.cpp
+  DlgCyclePlayBack.cpp
+  DlgDevLog.cpp
+DlgDevLog.cpp(239): warning C4244: “=”: 从“DWORD_PTR”转换到“DWORD”，可能丢失数据
+  DlgEhome50Auth.cpp
+  DlgFlowInfo.cpp
+  DlgGpsInfo.cpp
+DlgGpsInfo.cpp(54): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgGpsInfo.cpp(55): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgGpsInfo.cpp(116): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgGpsInfo.cpp(117): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+  DlgHidArea.cpp
+  DlgHttpAlarm.cpp
+DlgHttpAlarm.cpp(126): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+DlgHttpAlarm.cpp(146): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+DlgHttpAlarm.cpp(242): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+DlgHttpAlarm.cpp(294): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+DlgHttpAlarm.cpp(403): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  DlgIFrame.cpp
+  DlgInfoPublish.cpp
+  DlgInfoPubTerCfg.cpp
+  正在编译...
+  DlgIPSelect.cpp
+DlgIPSelect.cpp(198): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+DlgIPSelect.cpp(152): warning C4101: “addr”: 未引用的局部变量
+  DlgISAPIConfig.cpp
+  DlgISAPIPassthrough.cpp
+  DlgListen.cpp
+  DlgLocalCfg.cpp
+  DlgMotionArea.cpp
+  DlgMotionConfig.cpp
+  DlgOutput.cpp
+  DlgOutputCtrl.cpp
+  DlgPassthroughProxy.cpp
+DlgPassthroughProxy.cpp(150): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+  DlgPicFile.cpp
+DlgPicFile.cpp(245): warning C4244: “=”: 从“DWORD_PTR”转换到“DWORD”，可能丢失数据
+DlgPicFile.cpp(265): warning C4244: “=”: 从“DWORD_PTR”转换到“DWORD”，可能丢失数据
+DlgPicFile.cpp(285): warning C4244: “=”: 从“DWORD_PTR”转换到“DWORD”，可能丢失数据
+  DlgPlayBack.cpp
+  DlgPrivateArea.cpp
+  DlgRecordCfg.cpp
+  DlgRecordFile.cpp
+DlgRecordFile.cpp(31): warning C4244: “参数”: 从“DWORD”转换到“BYTE”，可能丢失数据
+DlgRecordFile.cpp(410): warning C4244: “=”: 从“DWORD_PTR”转换到“DWORD”，可能丢失数据
+DlgRecordFile.cpp(877): warning C4244: “=”: 从“DWORD”转换到“WORD”，可能丢失数据
+  DlgStorageServer.cpp
+DlgStorageServer.cpp(374): warning C4090: “初始化”: 不同的“__unaligned”限定符
+DlgStorageServer.cpp(478): warning C4267: “初始化”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgStorageServer.cpp(613): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgStorageServer.cpp(791): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgStorageServer.cpp(816): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+DlgStorageServer.cpp(844): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgStorageServer.cpp(856): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgStorageServer.cpp(913): warning C4090: “初始化”: 不同的“__unaligned”限定符
+  DlgStreamEncrypt.cpp
+  DlgSubPicCfg.cpp
+  DlgUpgrade.cpp
+  DlgUpgradeHttp.cpp
+DlgUpgradeHttp.cpp(79): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgUpgradeHttp.cpp(118): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgUpgradeHttp.cpp(234): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+  正在编译...
+  DlgVideoIntercomCall.cpp
+  DlgWebConfig.cpp
+  DlgWirelessInfoPara.cpp
+DlgWirelessInfoPara.cpp(70): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgWirelessInfoPara.cpp(71): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgWirelessInfoPara.cpp(125): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+DlgWirelessInfoPara.cpp(126): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+  EHomeDemo.cpp
+  EHomeDemoDlg.cpp
+EHomeDemoDlg.cpp(264): warning C4267: “初始化”: 从“size_t”转换到“DWORD”，可能丢失数据
+EHomeDemoDlg.cpp(315): warning C4267: “初始化”: 从“size_t”转换到“DWORD”，可能丢失数据
+EHomeDemoDlg.cpp(356): warning C4267: “初始化”: 从“size_t”转换到“DWORD”，可能丢失数据
+EHomeDemoDlg.cpp(432): warning C4267: “初始化”: 从“size_t”转换到“DWORD”，可能丢失数据
+EHomeDemoDlg.cpp(468): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+EHomeDemoDlg.cpp(497): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+EHomeDemoDlg.cpp(507): warning C4267: “初始化”: 从“size_t”转换到“DWORD”，可能丢失数据
+EHomeDemoDlg.cpp(533): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+EHomeDemoDlg.cpp(1858): warning C4244: “=”: 从“DWORD”转换到“BYTE”，可能丢失数据
+EHomeDemoDlg.cpp(1899): warning C4244: “初始化”: 从“LPARAM”转换到“int”，可能丢失数据
+EHomeDemoDlg.cpp(1900): warning C4244: “初始化”: 从“WPARAM”转换到“int”，可能丢失数据
+EHomeDemoDlg.cpp(3252): warning C4244: “初始化”: 从“LPARAM”转换到“int”，可能丢失数据
+EHomeDemoDlg.cpp(4207): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+EHomeDemoDlg.cpp(4346): warning C4267: “参数”: 从“size_t”转换到“UINT”，可能丢失数据
+EHomeDemoDlg.cpp(4496): warning C4244: “初始化”: 从“DWORD_PTR”转换到“DWORD”，可能丢失数据
+EHomeDemoDlg.cpp(4514): warning C4244: “=”: 从“DWORD_PTR”转换到“DWORD”，可能丢失数据
+EHomeDemoDlg.cpp(4838): warning C4244: “=”: 从“DWORD_PTR”转换到“int”，可能丢失数据
+EHomeDemoDlg.cpp(4849): warning C4244: “=”: 从“DWORD_PTR”转换到“int”，可能丢失数据
+EHomeDemoDlg.cpp(5032): warning C4244: “=”: 从“UINT_PTR”转换到“int”，可能丢失数据
+EHomeDemoDlg.cpp(5630): warning C4244: “=”: 从“DWORD”转换到“BYTE”，可能丢失数据
+EHomeDemoDlg.cpp(6857): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+EHomeDemoDlg.cpp(6858): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+  cjson.cpp
+Public\cjson\cjson.cpp(362): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+Public\cjson\cjson.cpp(462): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+  Convert.cpp
+Public\Convert\Convert.cpp(322): warning C4018: “>”: 有符号/无符号不匹配
+  tinystr.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  XmlBase.cpp
+  SoundIn.cpp
+  SubDlgAlarmCfg.cpp
+  SubDlgChanCfg.cpp
+  SubDlgDeviceCfg.cpp
+  SubDlgNetworkCfg.cpp
+  SubDlgXmlCfg.cpp
+SubDlgXmlCfg.cpp(356): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+SubDlgXmlCfg.cpp(440): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+  WaveSound.cpp
+  正在生成代码
+  已完成代码的生成
+  EHomeDemo.vcxproj -> D:\jenkins_ci\workspace\Pack_SDK_ISUP_Win32_64\common\HCEHomeCMS\win\EHomeDemo\ISUPDemo\..\..\lib64\ISUPDemo.exe
+  已复制         1 个文件。
+  do nothing

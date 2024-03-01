@@ -1,0 +1,23 @@
+{
+  "PictureServerInformation": {
+    "pictureServerType": "cloudStorage",
+    "addressingFormatType": "ipaddress",
+    "hostName": "",
+    "ipv4Address": "${ipv4Address}",
+    "ipv6Address": "0",
+    "portNo": ${portNo},
+    "cloudStorage": {
+      "cloudManageHttpPort": 6011,
+      "cloudTransDataPort": 6011,
+      "cloudCmdPort": 6011,
+      "cloudHeartBeatPort": 6011,
+      "cloudStorageHttpPort": 6011,
+      "cloudUsername": "admin",
+      "cloudPassword": "12345",
+      "cloudPoolId": 1,
+      "clouldProtocolVersion": "cloud2",
+      "clouldAccessKey": "khchhwtnmdqhwczjpmgmgykerdtwfywphazqwudkzvtvaserfmdnkpueuncalars",
+      "clouldSecretKey": "bqizmnkljfhlyncfafsmumqpcurnviiybsxnijztriepvgwxnqkjdcafzruuceud"
+    }
+  }
+}

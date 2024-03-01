@@ -1,0 +1,8 @@
+{
+  "FingerPrintCfg": {
+    "employeeNo": "${employeeNo}",
+    "enableCardReader": [1],
+    "fingerPrintID": 1,
+    "deleteFingerPrint": true
+  }
+}

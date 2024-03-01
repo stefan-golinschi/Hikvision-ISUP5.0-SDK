@@ -1,0 +1,32 @@
+# Default ignored files
+/classes
+
+/lib/*
+!/lib/SDK库文件拷贝到该目录下.txt
+
+/AudioFile/*
+!/AudioFile/此文件夹中放入发送给设备的音频文件.txt
+
+# demo工程的输出文件信息
+/outputFiles/*
+!/outputFiles/这里存放程序的运行输出文件.txt
+
+/pic/*
+!/pic/下发的图片文件拷贝到该目录下.txt
+/resources/pics/*
+!/resources/pics/下发的图片文件拷贝到该目录下.txt
+/resources/audioFile/*
+!/resources/audioFile/此文件夹中放入发送给设备的音频文件.txt
+
+/bin/*
+/ISUPPicServer/*
+
+
+
+/out/*
+
+/sdkLog/*
+
+/EHomeSDKLog
+/.idea
+/.settings

@@ -1,0 +1,9 @@
+
+！！！工程下面有README.md文件，说明了DEMO工程演示的相关功能。
+工程只提供演示参考，部分未演示功能需要自行开发实现！
+集成到正式环境中时，请您自行测试保证代码的质量问题！
+
+
+
+ISUPSDK_JAVA_DEMO_DeepInMind 这个DEMO工程是超脑集成相关的示例代码
+ISUPSDK_JAVA_DEMO_ACS 这个DEMO工程是门禁集成相关的示例代码
