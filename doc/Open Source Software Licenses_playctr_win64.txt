@@ -2134,19 +2134,17 @@ Appendix N
                         Software Licensed from my97.net
                     --------------------------------------
 
-      许可协议
-      在遵循本协议的条件下,My97日期控件无偿的永久的提供给大家免费使用
+License Agreement
+Under the conditions of following this agreement, My97 date control is provided to everyone for free and permanently
 
-      混淆版是指:日期控件作者公开对外发布的版本,对源代码做了混淆,您可以在遵循本协议的条件下,
-   享有永久的使用权
-      可以应用于任何商业性或非商业性的网站
-      可以应用于任何软件包括商业软件和项目
-      可以自由的修改除calendar.js文件以外的所有文件,但不可对外发布任何修改版本
-      必须保留原作者的所有版权信息
-      不可对包内的任何文件进行改名,不用的文件可以删除
-      不可通过修改和衍生的方式做二次开发的软件(如控件库)
-      不可对日期控件以及衍生版本进行二次销售
-      由于准予免费使用,原作者对函数库没有担保,也没有义务提供任何技术支持
-      原作者享有对许可证条款修改的权利
-      除非适用有书面协议的要求,在任何情况下,原作者对许可证条款修改都不对您的损失负有任何责任
-
+Obfuscated version means: the version released by the author of the date control to the public, the source code is obfuscated, you can enjoy permanent use rights under the conditions of following this agreement
+Can be applied to any commercial or non-commercial website
+Can be applied to any software including commercial software and projects
+All files except calendar.js file can be modified freely, but no modified version can be released to the public
+All copyright information of the original author must be retained
+Any files in the package cannot be renamed, and unused files can be deleted
+Software (such as control library) cannot be secondary developed by modification and derivation
+Date control and derivative versions cannot be resold
+Due to the free use, the original author has no guarantee for the function library and is not obliged to provide any technical support
+The original author has the right to modify the license terms
+Unless a written agreement is applicable, in any case, the original author will not be responsible for your losses due to the modification of the license terms
